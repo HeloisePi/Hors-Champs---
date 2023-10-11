@@ -1,0 +1,63 @@
+//      COLOR
+
+$red: #DA0E0D; 
+$grey: #EEEEEE;
+
+//      FONT FAMILY
+
+@font-face {
+    font-family: 'BasementGrotesque';
+    src: url(/src/assets/font/BasementGrotesque-Black_v1.202.otf);
+}
+@font-face {
+    font-family: 'Montserrat-Regular';
+    src: url(/src/assets/font/Montserrat-Regular.ttf);
+}
+@font-face {
+    font-family: 'Montserrat-Bold';
+    src: url(/src/assets/font/Montserrat-Bold.ttf);
+}
+
+$ffBasementGrotesque: 'BasementGrotesque';
+$ffMontserrat-Regular: 'Montserrat-Regular';
+$ffMontserrat-Bold: 'Montserrat-Bold';
+
+//      FONT STYLE & STYLE 
+
+h1{
+    font-family: $ffBasementGrotesque;
+    color: white;
+    font-size: 96px;
+    text-transform: uppercase;
+}
+
+h2{
+    font-family: $ffBasementGrotesque;
+    color: $red;
+    font-size: 36px;
+    text-transform: uppercase;
+}
+
+h3{
+    font-family: $ffBasementGrotesque;
+    color: $red;
+    font-size: 12px;
+    text-transform: uppercase;
+}
+
+h4{
+    font-family: $ffMontserrat-Bold ;
+    font-size: 24px;
+    color: white;
+}
+
+h5{
+    font-family: $ffMontserrat-Regular ;
+    font-size: 12px;
+}
+
+p{
+    font-family: $ffMontserrat-Regular ;
+    font-size: 20px;
+    color: black ;
+}
