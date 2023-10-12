@@ -1,5 +1,6 @@
 <script>
-	import Header from './Componante/Header.svelte';
+	import Footer from './Componante/Footer.svelte';
+import Header from './Componante/Header.svelte';
 	import './styles.css';
 </script>
 
@@ -9,7 +10,8 @@
 		<slot />
 	</main>
 
-	<footer>
+	<footer> 
+		<Footer />
 	</footer>
 </div>
 

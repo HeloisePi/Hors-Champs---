@@ -21,6 +21,7 @@
         top: 0;
         z-index: 2;
         padding-right: 1rem;
+        background-color:#DA0E0D ;
     }
     div{
         width: 100vw;
@@ -34,6 +35,7 @@
         -ms-filter: blur(10px);
         filter: blur(10px);
         backdrop-filter: blur(10px);
+        
     }
     h5{
         cursor: pointer;
