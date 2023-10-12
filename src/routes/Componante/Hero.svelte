@@ -14,7 +14,7 @@
         </h4>
         <div class="titleImg">
                 <div class="groupImg">
-                    <img src="./src/assets/images/affiche.png" alt="affiche du film">
+                    <img src="./src/assets/affiche.png" alt="affiche du film">
                     
                 </div>
                 
