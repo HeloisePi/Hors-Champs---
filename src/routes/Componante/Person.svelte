@@ -4,7 +4,7 @@
     export let description;
 </script>
 
-<div class="">
+<divs>
     <img src="{srcImg}" alt="{name}">
     <h3>{name}</h3>
     <p>{description}</p>
