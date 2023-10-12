@@ -4,23 +4,23 @@
 <h3>LE GENRE</h3>
 <div class="movie">
     <div class="part1">
-        <img src="src/assets/Images/affiche1.png" alt="Very Bad Trip">
+        <img src="/images/affiche1.png" alt="Very Bad Trip">
         <p>Very Bad Trip</p>
-        <img src="src/assets/Images/affiche2.png" alt="Little Miss Sunshine">
+        <img src="/images/affiche2.png" alt="Little Miss Sunshine">
         <p>Little Miss Sunshine</p>
-        <img src="src/assets/Images/affiche3.png" alt="Dumb and Dumber">
+        <img src="/images/affiche3.png" alt="Dumb and Dumber">
         <p>Dumb and Dumber</p>
     </div>
     <div class="part2">
-        <img src="src/assets/Images/affiche4.png" alt="Harold & Kumar">
+        <img src="/images/affiche4.png" alt="Harold & Kumar">
         <p>Harold & Kumar</p>
-        <img src="src/assets/Images/affiche5.png" alt="Midnight Run">
+        <img src="/images/affiche5.png" alt="Midnight Run">
         <p>Midnight Run</p>
     </div>
     <div class="part3">
-        <img src="src/assets/Images/affiche6.png" alt="The blues Brothers">
+        <img src="/images/affiche6.png" alt="The blues Brothers">
         <p>The blues Brothers</p>
-        <img src="src/assets/Images/affiche7.png" alt="21 jump street">
+        <img src="/images/affiche7.png" alt="21 jump street">
         <p>21 jump street</p>
     </div>
 

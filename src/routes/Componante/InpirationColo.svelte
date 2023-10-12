@@ -5,7 +5,7 @@
 <h2>Inspiration</h2>
 <h3>COLORIMÉTRIE</h3>
 <div class="">
-    <img src="src/assets/Images/moodBoard.png" alt="MoodBoard">
+    <img src="/images/moodBoard.png" alt="MoodBoard">
     <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Corrupti,
          ipsam eveniet! Quia ipsa labore pariatur soluta nihil officia dicta
           neLorem ipsum dolor sit, amet consectetur adipisicing elit. Corrupti,
