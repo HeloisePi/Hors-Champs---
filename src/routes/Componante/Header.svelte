@@ -2,10 +2,10 @@
 </script>
 
 <header>
-    <h5>Court-métrage</h5>
-    <h5>Crédit</h5>
-    <h5>Inspiration</h5>
-    <h5>Making of</h5>
+    <a href="#COURT MÉTRAGE"><h5>Court-métrage</h5></a>
+    <a href="#credit"><h5>Crédit</h5></a>
+    <a href="#inspiration"><h5>Inspiration</h5></a>
+    <a href="#Making Of"><h5>Making of</h5></a>
 </header>
 <div class="div"></div>
 
@@ -39,6 +39,9 @@
     }
     h5{
         cursor: pointer;
+    }
+    h5:hover{
+        text-decoration: underline;
     }
 
 </style>

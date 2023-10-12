@@ -1,7 +1,7 @@
 <script></script>
 
 <div class="footer">
-    <h1>Titre</h1>
+    <h1>À LA POURSUITE DU CHAT</h1>
     <h4>©2023  Équipe nom du film Tous droits réservés</h4>
 </div>
 <style>

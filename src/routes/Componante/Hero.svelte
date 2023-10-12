@@ -1,7 +1,7 @@
 <script></script>
 
 <section>
-    <h1>Title</h1>
+    <h1>À LA POURSUITE DU CHAT</h1>
     <div class="">
 
     
@@ -52,6 +52,7 @@
         text-align: end;
         margin-right: 7rem;;
         padding-top: 5rem;
+        margin-bottom: 1rem;
     }
 
     h4{

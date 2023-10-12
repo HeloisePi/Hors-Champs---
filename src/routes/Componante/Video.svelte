@@ -3,7 +3,7 @@
     export let videoSrc;
 </script>
 
-<div class="video">
+<div class="video" id="{title}">
     <h2>{title}</h2>
     <div ><video src="{videoSrc}"></video></div>
 </div>

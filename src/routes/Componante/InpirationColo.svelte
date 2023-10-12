@@ -1,5 +1,5 @@
 <script></script>
-<section>
+<section id="inspiration">
 
 
 <h2>Inspiration</h2>

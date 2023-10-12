@@ -9,8 +9,8 @@
 </script>
 
 <svelte:head>
-	<title>Home</title>
-	<meta name="description" content="Svelte demo app" />
+	<title>À la recherche du chat </title>
+	<meta name="Cours-Métrage - Hors CHAMPS" content="Description des différents éléments de la production du court-métrage" />
 </svelte:head>
 
 <section class="all">
@@ -20,7 +20,7 @@
 	videoSrc="#" />
 	<div class="">
 		<h2>CRÉDITS</h2>
-		<div class="creditPerson">
+		<div class="creditPerson" id="credit">
 			<Person 
 				srcImg="src/assets/images/portrait/hugo.png"
 				name ="Hugo"
