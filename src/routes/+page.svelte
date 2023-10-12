@@ -22,27 +22,27 @@
 		<h2>CRÉDITS</h2>
 		<div class="creditPerson" id="credit">
 			<Person 
-				srcImg="src/assets/images/portrait/hugo.png"
+				srcImg="./src/assets/images/portrait/hugo.png"
 				name ="Hugo"
 				description ="Lorem ipsum dolor sit, amet consectetur"
 			/>
 			<Person 
-				srcImg="src/assets/images/portrait/jo.png"
+				srcImg="./src/assets/images/portrait/jo.png"
 				name ="jo"
 				description ="Lorem ipsum dolor sit, amet consectetur"
 			/>
 			<Person 
-				srcImg="src/assets/images/portrait/astrid.png"
+				srcImg="./src/assets/images/portrait/astrid.png"
 				name ="astrid"
 				description ="Lorem ipsum dolor sit, amet consectetur"
 			/>
 			<Person 
-				srcImg="src/assets/images/portrait/heloise.png"
+				srcImg="./src/assets/images/portrait/heloise.png"
 				name ="héloïse"
 				description ="Lorem ipsum dolor sit, amet consectetur"
 			/>
 			<Person 
-				srcImg="src/assets/images/portrait/chloe.png"
+				srcImg="./src/assets/images/portrait/chloe.png"
 				name ="chloé"
 				description ="Lorem ipsum dolor sit, amet consectetur"
 			/>
