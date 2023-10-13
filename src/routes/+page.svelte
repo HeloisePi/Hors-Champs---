@@ -24,27 +24,27 @@
 			<Person 
 				srcImg="/images/portrait/hugo.png"
 				name ="Hugo"
-				description ="Lorem ipsum dolor sit, amet consectetur"
+				description ="Acteur, Motion designer, Scénariste"
 			/>
 			<Person 
 				srcImg="/images/portrait/jo.png"
 				name ="jo"
-				description ="Lorem ipsum dolor sit, amet consectetur"
+				description ="Actrice, Monteuse, Scénariste"
 			/>
 			<Person 
 				srcImg="/images/portrait/astrid.png"
 				name ="astrid"
-				description ="Lorem ipsum dolor sit, amet consectetur"
+				description ="Monteuse, metteur en scène, Scénariste"
 			/>
 			<Person 
 				srcImg="/images/portrait/heloise.png"
 				name ="héloïse"
-				description ="Lorem ipsum dolor sit, amet consectetur"
+				description ="Silhouette, Assistant réal, Scénariste, DA"
 			/>
 			<Person 
 				srcImg="/images/portrait/chloe.png"
 				name ="chloé"
-				description ="Lorem ipsum dolor sit, amet consectetur"
+				description ="Réalisatrice, Costumière, Scénariste, Monteuse, DA"
 			/>
 
 	</div>
@@ -66,6 +66,26 @@
 		width: 100vw;
 		padding-left: 10vw;
 		padding-right: 10vw;
+	}
+	@media screen and (max-width: 970px) {
+		.creditPerson{
+		grid-template-columns: 1fr 1fr 1fr 1fr ;
+		grid-template-rows: 1fr 1fr;
+		column-gap: 1rem;
+		row-gap: 1rem;
+		width: 100vw;
+	}
+	@media screen and (max-width: 970px) {
+		.creditPerson{
+			grid-template-columns:  1fr 1fr ;
+		}
+	}
+	@media screen and (max-width: 400px) {
+		.creditPerson{
+			grid-template-columns:  1fr ;
+		}
+	}
+
 	}
 	h2{
 		padding-left: 10vw;

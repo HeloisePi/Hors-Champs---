@@ -1,16 +1,16 @@
 <script></script>
 
 <section>
-    <h1>À LA POURSUITE DU CHAT</h1>
+    <h1>A LA POURSUITE DU CHAT</h1>
     <div class="">
 
     
     <div class="imgDescip">
         <h4>
-            Lorem ipsum dolor sit, amet consectetur adipisicing elit.
-            Corrupti, ipsam eveniet Quia ipsa 
-            labore pariatur soluta nihil officia dicta necessitatibus. 
-            At, molestiae accusan
+            Hugo, jeune homme impatient et sanguin, et Jo,
+             au caractère plutôt effacé et timide, se retrouvent
+              à la recherche du chat perdu de Rachel, la copine
+               de Hugo qui l’avait laissé sous sa garde. 
         </h4>
         <div class="titleImg">
                 <div class="groupImg">
@@ -30,7 +30,7 @@
 
 <style>
     section{
-        background-color:#DA0E0D ;
+        background-color:#BFDFFF ;
         padding-bottom: 5rem;
         
     }
@@ -66,5 +66,24 @@
         display: none;
        
     }
+
+    @media screen and (max-width: 895px) {
+        .imgDescip{
+        grid-template-columns: 1fr ;
+        grid-template-rows: 1fr 2fr;
+        justify-items: center;
+    }
+    .groupImg{
+       text-align: end;
+        margin-right: 0rem;
+    }
+    h1{
+        text-align: center;
+        margin-right: 0rem;
+        padding-top: 5rem;
+        margin-bottom: 1rem;
+    }
+    }
+
 
 </style>

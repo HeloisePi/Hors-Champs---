@@ -25,14 +25,7 @@
     </div>
 
 </div>
-<p class="description">Lorem ipsum dolor sit, amet consectetur adipisicing elit.
-     Corrupti, ipsam eveniet! Quia ipsa labore pariatur soluta
-      nihil officia dicta neLorem ipsum dolor sit, amet consectetur
-       adipisicing elit. Corrupti, ipsam eveniet! Quia ipsa labore
-        pariatur soluta nihil officia dicta neLorem ipsum dolor sit,
-         amet consectetur adipisicing elit.
-     Corrupti, ipsam eveniet! Quia ipsa labore pariatur soluta nihil
-      offic ia dicta ne</p>
+<p class="description">Pour réaliser notre court métrage, nous avons tout d’abord visionner plusieurs films sur dans le genre Buddy Comedy Road Trip afin de pouvoir repérer les codes utilisés, l’humour, le duo iconique pour les représenter au mieux dans À la poursuite du chat.</p>
 </section>
 <style>
     h2{
@@ -40,7 +33,7 @@
     }
     h3{
         font-size: 17px;
-        transform: translateY(-0.5rem);
+        transform: translateY(-0.2rem);
         margin-left: 10vw;
         margin-bottom: 1rem;
     }
@@ -60,5 +53,21 @@
     .description{
         width: 45rem;
         margin: auto;
+    }
+
+    @media screen and (max-width: 970px) {
+        .movie{
+            flex-direction: column;
+    }
+        img{
+            width: 30vw;
+        }
+        
+    }
+
+    @media screen and (max-width: 758px) {
+        .description{
+            width: 80vw;
+        }
     }
 </style>

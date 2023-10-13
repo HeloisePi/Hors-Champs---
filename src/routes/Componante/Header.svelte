@@ -7,7 +7,6 @@
     <a href="#inspiration"><h5>Inspiration</h5></a>
     <a href="#Making Of"><h5>Making of</h5></a>
 </header>
-<div class="div"></div>
 
 <style>
     header{
@@ -21,21 +20,7 @@
         top: 0;
         z-index: 2;
         padding-right: 1rem;
-        background-color:#DA0E0D ;
-    }
-    div{
-        width: 100vw;
-        height: 3rem;
-        position: fixed;
-        z-index: 1;
-        top:0;
-        -webkit-filter: blur(10px);
-        -moz-filter: blur(10px);
-        -o-filter: blur(10px);
-        -ms-filter: blur(10px);
-        filter: blur(10px);
-        backdrop-filter: blur(10px);
-        
+        background-color:#BFDFFF ;
     }
     h5{
         cursor: pointer;
@@ -43,5 +28,12 @@
     h5:hover{
         text-decoration: underline;
     }
-
+    @media screen and (max-width: 450px) {
+        h5{
+            font-size: 12px;
+        }
+        header{
+        gap: 1rem;
+        }
+    }
 </style>

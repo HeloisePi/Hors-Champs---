@@ -1,6 +1,6 @@
 //      COLOR
 
-$red: #DA0E0D; 
+$red: #BFDFFF; 
 $grey: #EEEEEE;
 
 //      FONT FAMILY
@@ -26,7 +26,7 @@ $ffMontserrat-Bold: 'Montserrat-Bold';
 
 h1{
     font-family: $ffBasementGrotesque;
-    color: white;
+    color: black;
     font-size: 40px;
     text-transform: uppercase;
 }
@@ -48,13 +48,13 @@ h3{
 h4{
     font-family: $ffMontserrat-Bold ;
     font-size: 24px;
-    color: white;
+    color: black;
 }
 
 h5{
     font-family: $ffMontserrat-Regular ;
     font-size: 16px;
-    color: white;
+    color: black;
 }
 
 p{
