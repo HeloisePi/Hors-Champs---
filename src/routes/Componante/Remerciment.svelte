@@ -28,7 +28,7 @@
     img{
         width: 10rem;
         height: fit-content;
-        transform: translate(-7rem, 6rem);
+        transform: translate(-7rem, 3rem);
     }
     
 
