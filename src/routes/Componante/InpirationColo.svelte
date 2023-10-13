@@ -5,7 +5,7 @@
 <h2>Inspiration</h2>
 <h3>COLORIMÉTRIE</h3>
 <div class="">
-    <img src="/images/moodBoard.png" alt="MoodBoard">
+    <img src="/images/moodBoard.webp" alt="MoodBoard">
     <img class="star" src="/images/star2.svg" alt="star">
     <p>À la poursuite du chat, est inspiré des films de Wes Anderson,
          en terme de colorimétrie. Nous voulions des couleurs vives pour

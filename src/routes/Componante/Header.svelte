@@ -20,7 +20,7 @@
         top: 0;
         z-index: 2;
         padding-right: 1rem;
-        background-color:#BFDFFF ;
+        background-color:#8FBDEB ;
     }
     h5{
         cursor: pointer;

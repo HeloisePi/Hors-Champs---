@@ -11,7 +11,7 @@
     À l’IUT bordeaux Montaigne </p>
 
 </div>
-<img src="/images/catMotion.png" alt="Image de chat">
+<img src="/images/catMotion.webp" alt="Image de chat">
     
 </section>
 <style>

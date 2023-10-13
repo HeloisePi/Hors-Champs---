@@ -6,7 +6,7 @@
 </div>
 <style>
     .footer{
-        background-color: #BFDFFF;
+        background-color: #8FBDEB;
         display: flex;
         flex-direction: column;
         justify-content: center;

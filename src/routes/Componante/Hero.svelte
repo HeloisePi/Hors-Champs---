@@ -30,7 +30,7 @@
 
 <style>
     section{
-        background-color:#BFDFFF ;
+        background-color:#8FBDEB ;
         padding-bottom: 5rem;
         
     }

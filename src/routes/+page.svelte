@@ -22,27 +22,27 @@
 		<h2>CRÉDITS</h2>
 		<div class="creditPerson" id="credit">
 			<Person 
-				srcImg="/images/portrait/hugo.png"
+				srcImg="/images/portrait/hugo.webp"
 				name ="Hugo"
 				description ="Acteur, Motion designer, Scénariste"
 			/>
 			<Person 
-				srcImg="/images/portrait/jo.png"
+				srcImg="/images/portrait/jo.webp"
 				name ="jo"
 				description ="Actrice, Monteuse, Scénariste"
 			/>
 			<Person 
-				srcImg="/images/portrait/astrid.png"
+				srcImg="/images/portrait/astrid.webp"
 				name ="astrid"
 				description ="Monteuse, metteur en scène, Scénariste"
 			/>
 			<Person 
-				srcImg="/images/portrait/heloise.png"
+				srcImg="/images/portrait/heloise.webp"
 				name ="héloïse"
 				description ="Silhouette, Assistant réal, Scénariste, DA"
 			/>
 			<Person 
-				srcImg="/images/portrait/chloe.png"
+				srcImg="/images/portrait/chloe.webp"
 				name ="chloé"
 				description ="Réalisatrice, Costumière, Scénariste, Monteuse, DA"
 			/>
