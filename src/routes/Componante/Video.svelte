@@ -6,7 +6,12 @@
 <div class="video" id="{title}">
     <img src="/images/star.svg" alt="star">
     <h2>{title}</h2>
-    <div ><video src="{videoSrc}"></video></div>
+    <div ><iframe 
+        src="https://www.youtube.com/embed/Z_93y3QeyoI?si=H9173p69r4DZBMlZ" 
+        title="YouTube video player" 
+        frameborder="0" 
+        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+        allowfullscreen></iframe></div>
 </div>
 
 <style>
@@ -20,13 +25,13 @@
         margin-bottom: 1rem;
     }
 
-    .video div{
-        background-color: #D9D9D9;
-        height: 360px;
-    }
     img{
         position: absolute;
         width: 4rem;
         transform: translate(-5rem,1rem);
+    }
+    iframe{
+        width: 60vw;
+        height: 40vw;
     }
 </style>
