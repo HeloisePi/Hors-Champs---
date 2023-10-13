@@ -17,7 +17,7 @@
 	<Hero/>
 	<Video 
 	title="COURT MÉTRAGE"
-	videoSrc="#" />
+	videoSrc="https://www.youtube.com/embed/Z_93y3QeyoI?si=H9173p69r4DZBMlZ" />
 	<div class="">
 		<h2>CRÉDITS</h2>
 		<div class="creditPerson" id="credit">
@@ -54,7 +54,7 @@
 	<InspirationGenre />
 	<Video 
 	title="Making Of"
-	videoSrc="#" />
+	videoSrc="https://www.youtube.com/embed/9QuENqojmSY?si=-0VE1Cx_fiwTUpEq" />
 	<Remerciment />
 </section>
 

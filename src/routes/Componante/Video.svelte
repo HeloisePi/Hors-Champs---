@@ -7,7 +7,7 @@
     <img src="/images/star.svg" alt="star">
     <h2>{title}</h2>
     <div ><iframe 
-        src="https://www.youtube.com/embed/Z_93y3QeyoI?si=H9173p69r4DZBMlZ" 
+        src="{videoSrc}" 
         title="YouTube video player" 
         frameborder="0" 
         allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
