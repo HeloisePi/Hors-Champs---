@@ -2,8 +2,8 @@
 <section>
 <div>
     <h2>REMERCIMENT</h2>
-    <p>INTERVENANTS : <br>
-        Boris DE LA HIGUERA<br>
+    <h4>INTERVENANTS : </h4> <br>
+    <p> Boris DE LA HIGUERA<br>
         Jean Baptiste GUIGNOT<br>
         Delphine REYSS<br>
         Lucas NGOUEMBE<br><br>
@@ -24,6 +24,10 @@
     }
     h2{
         margin-bottom: 1rem;
+    }
+    h4{
+        margin-bottom: 1rem;
+        font-size: 20px;
     }
     img{
         width: 10rem;
